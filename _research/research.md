@@ -1,15 +1,13 @@
 ---
 layout: archive
 title: "Research"
-permalink: /resarch/
+permalink: /research/
 author_profile: true
 
 ---
 
 {% include base_path %}
 
-Research
-======
 * <h2>MIDAS Lab, IIIT-Delhi</h2>
   * <h3>Research Intern [Aug 2018 - Feb 2019]</h3>
     * <b>Advisors:</b> [Prof. Rajiv Ratn Shah](https://scholar.google.com/citations?user=WAChZv4AAAAJ&hl=en), [Prof. Ponnurangam Kumaraguru](https://scholar.google.com/citations?user=MfzQyP8AAAAJ&hl=en), [Prof. Roger Zimmermann](https://scholar.google.com/citations?user=IDREwXEAAAAJ&hl=en)

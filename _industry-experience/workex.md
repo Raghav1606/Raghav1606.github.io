@@ -8,8 +8,6 @@ author_profile: true
 
 {% include base_path %}
 
-Work experience
-======
 * <h2>Goldman Sachs</h2>
   * <h3>Software Analyst [Jun 2019 - PRESENT]</h3>
     * Currently working in GS Electronic Trading (HFT) platforms team in the Global Markets division to help build the platform that facilitates the trading for institutional clients through ultra low latency systems using Java, Spring and C++.

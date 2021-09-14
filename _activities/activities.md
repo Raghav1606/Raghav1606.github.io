@@ -28,14 +28,13 @@ Leadership
 
 * <h2>Research Methodology and Scientific Writing Workshop, NSIT</h2>
   * <h3>Organizing Committee Member [Feb 2017 - Mar 2017]</h3> 
-    * <b>Advisors:</b> [Prof. M.P.S. Bhatia](http://www.nsit.ac.in/faculty/mps/), [Prof. Preeti Kaur](http://www.nsit.ac.in/faculty/ptk/)
     * Organized a workshop for PhD scholars of computer engineering department which helped them to have a deeper understanding of LaTeX and scientific paper writing methodologies.
 
 
 Volunteering
 ======
 
-* <h2><Community Team Works (CTW), Goldman Sachs [Aug 2019 - PRESENT]</h2>
+* <h2>Community Team Works (CTW), Goldman Sachs [Aug 2019 - PRESENT]</h2>
   * <h3>Community Volunteer, Diya Foundation</h3>
   	* Understand the needs of residents at Diya Foundation and assist them by creating educational materials like interactive presentations and slides on topics like banking and loans which will help the intellectually challenged young adults to develop basic employability skills
   * <h3>Community Volunteer, Shristi Special Academy</h3>

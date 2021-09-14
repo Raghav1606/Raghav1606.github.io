@@ -1,7 +1,7 @@
 ---
 title: "Mind your language: Abuse and offense detection for code-switched languages"
 collection: publications
-permalink: /publication/p1
+permalink: /publications/p1
 excerpt: '<b>Raghav Kapoor</b>, Yaman Kumar, Kshitij Rajput, Rajiv Ratn Shah, Ponnurangam Kumaraguru, Roger Zimmermann.<br />Association for the Advancement of Artificial Intelligence (AAAI-19), Hawaii, U.S.A [2019] <b>[Best Student Poster Award]</b>'
 ---
 

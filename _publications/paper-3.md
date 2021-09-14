@@ -1,7 +1,7 @@
 ---
 title: "Hate Me Not: Detecting Hate Inducing Memes in Code Switched Languages"
 collection: publications
-permalink: /publication/p3
+permalink: /publications/p3
 excerpt: 'Kshitij Rajput, Raghav Kapoor, Kaushal Kumar Rai, Preeti Kaur. denotes equal contribution Submitted to (ABC)'
 ---
 
