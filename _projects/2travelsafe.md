@@ -5,7 +5,7 @@ permalink: /projects/p6
 excerpt: 'Esya Hackathon [Aug 2018]'
 ---
 
-[Code](https://ojs.aaai.org/index.php/AAAI/article/view/5112/4985)
+[[code]](https://github.com/Raghav1606/Travel-Safe)
 
 * A Webapp that finds the safest path from a given source and destination pair
 * Uses a criminal activity dataset (available for certain regions) and maps location and intnsity of crimes over google maps to generate a heatmap and subsequently calculate the safety across paths
