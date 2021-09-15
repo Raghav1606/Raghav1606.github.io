@@ -13,4 +13,4 @@ author_profile: true
 * Meditating in my free time! `:lotus_position:` 
 * Spend mostly time reading books - Biographies, Fictions, Self-Motivation, Psychology, Finance :books:
 * Training myself as a public spaker - Already delivered 12 speches on philosophy and motivation `:microphone:``:mega:`
-* Love playing Spades and Poker `:spades:``:black_joker:`
+* Love playing Spades and Poker `:spades:` &#1F0CF
