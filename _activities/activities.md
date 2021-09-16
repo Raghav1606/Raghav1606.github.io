@@ -16,7 +16,7 @@ Leadership
     * Working on mentoring fellow toastmasters to deliver polished speeches in front of a wide audience and honing my skills as a motivational speaker under the domain of Presentation Mastery Pathway - Completed Level 4 of the same.
     * Part of the Seven Sages Program which helped me groom as one of the 7 flag-bearer speakers from GS Toastmasters club.
   * <h3>Vice President, Membership [Jan 2021 - Jun 2021]</h3>
-  	* Assist club members in resolving their day-to-day concerns and maintain a constant influx of new people into the club by reaching out to guests and converting them to members. Also, Monitor membership levels and strategize overcoming membership challenges.
+  	* Assist club members in resolving their day-to-day concerns and maintain a constant influx of new people into the club by reaching out to guests and converting them to members. Also, monitor membership levels and strategize overcoming membership challenges.
     * The club won various awards like Golden Gavel, Club d'Elite award under my leadership for completing membership headcount targets.
   * <h3>Secretary [Jul 2020 - Dec 2020]</h3>
   	* Handle club records, club correspondence, manage club roster and documents, and take meeting minutes at each club and executive committee meeting. Organizer of many intra-club speech and table-topics contests.
