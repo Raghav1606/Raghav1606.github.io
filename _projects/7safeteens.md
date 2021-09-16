@@ -5,7 +5,7 @@ permalink: /projects/p1
 excerpt: 'Independent Project [June 2021 - PRESENT]'
 ---
 
-[[ppt]](https://ojs.aaai.org/index.php/AAAI/article/view/5112/4985)[[code]](https://github.com/Raghav1606/SafeTeens)
+[[code]](https://github.com/Raghav1606/SafeTeens)
 
 * App aims to filter out and notify parents of aggressive, hate inducing, depressive, violent messages in their child's phone
 * Runs in the background and reads the screen, passes through NLP models to flag inappropriate messages received or sent on social media handles like facebook, instagram, whatsapp, snapchat

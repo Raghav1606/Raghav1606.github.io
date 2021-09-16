@@ -5,7 +5,7 @@ permalink: /projects/p3
 excerpt: 'Winner, Smart India Hackathon 2019 [Mar 2019]'
 ---
 
-[[ppt]](https://ojs.aaai.org/index.php/AAAI/article/view/5112/4985)[[code]](https://github.com/Raghav1606/propsafe_block)
+[[ppt]](https://raghav1606.github.io/files/PropSafe_SIH_Proposal.pdf)[[code]](https://github.com/Raghav1606/propsafe_block)
 
 * A web application designed to automate the land/real estate transaction system used by land registry offices across India
 * A solution to detect property frauds using AI based solution and smart contracts/blockchain for maintaining tamper free records
