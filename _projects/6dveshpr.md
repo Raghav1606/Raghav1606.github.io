@@ -5,6 +5,8 @@ permalink: /projects/p2
 excerpt: 'B.Tech Project Thesis [May 2019; Currently Working on Publication]'
 ---
 
+[[preprint]](https://raghav1606.github.io/files/Hate_Me_Not.pdf)[[code]](https://drive.google.com/drive/folders/1x8I4JZTKrhAq-LDyrNZICEWs2fmefKIz?usp=sharing)
+
 * Deals with detecting hate speech and sarcasm in Indian Political memes in context of code-switched languages
 * Curated and annotated an IPM (Indian Political Memes) image dataset consisting of political memes
 * Proposed CNN-LSTM model that processes image and text separately for state-of-the-art results in this domain

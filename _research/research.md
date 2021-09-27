@@ -14,7 +14,7 @@ author_profile: true
   * <h3>Student Researcher [Feb 2019 - May 2019]</h3> 
     * <b>Advisors:</b> [Prof. M.P.S. Bhatia](http://www.nsit.ac.in/faculty/mps/), [Prof. Preeti Kaur](http://www.nsit.ac.in/faculty/ptk/)
     * Researched in the domain of NLP to create dependency based embeddings using a corpus of Hindi movie reviews
-    * Used POS tagging and dependency based parser to create Hindi embeddings of different window sizes and dimensions and compare their results with other embeddings like FastText Hindi, GloVe on Hindi datasets.
+    * Used POS tagging and dependency based parser to create Hindi embeddings of different window sizes and dimensions and compare their results with other embeddings like FastText Hindi, GloVe on Hindi datasets [[code]](https://drive.google.com/drive/folders/1YE9SqyyVuahuw3mQuRTDWWju-RimDAF4?usp=sharing)
 
 * <h2>MIDAS Lab, IIIT-Delhi</h2>
   * <h3>Research Intern [Aug 2018 - Feb 2019]</h3>

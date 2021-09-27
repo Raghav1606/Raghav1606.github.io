@@ -16,7 +16,7 @@ I have a rich technical experience of 2+ yrs as a software developer at Goldman 
 
 Prior to this, I have had experience in competitive programming and worked as a freelance problem contributor at hackerearth - creating official and unofficial programming challenges. I have also interned at Sandrock e-Technologies, where I got hands on experience in java development.
 
-
+Here is my [Curriculum Vitae](https://raghav1606.github.io/files/CV.pdf)
 
 <h2>Notable Achievements</h2>
 
