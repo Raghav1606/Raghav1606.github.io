@@ -8,7 +8,7 @@ author_profile: true
 
 {% include base_path %}
 
-<b>Research Interests:</b> Natural Language Processing, Social Media Analysis, Code-Switched Languages, Dependency Based Embeddings, Multimodal Analysis, NLP in Finance
+<b>Research Interests:</b> Natural Language Processing, Social Media Analysis, Code-Switched Languages, Dependency Based Embeddings, Multimodal Analysis
 
 * <h2>Netaji Subhas Institute of Technology</h2>
   * <h3>Student Researcher [Feb 2019 - May 2019]</h3> 
