@@ -12,7 +12,6 @@ Leadership
 ======
 * <h2>GS Walk the Talk Toastmasters Club</h2>
   * <h3>Club Mentor/Member [Jan 2020 - PRESENT]</h3>
-    * Winner of prestigious awards - Triple Crown, Escalator Award, Pioneer Gold and several other best speaker awards.
     * Working on mentoring fellow toastmasters to deliver polished speeches in front of a wide audience and honing my skills as a motivational speaker under the domain of Presentation Mastery Pathway - Completed Level 4 of the same.
     * Part of the Seven Sages Program which helped me groom as one of the 7 flag-bearer speakers from GS Toastmasters club.
   * <h3>Vice President, Membership [Jan 2021 - Jun 2021]</h3>
@@ -38,10 +37,12 @@ Volunteering
   * <h3>Community Volunteer, Diya Foundation</h3>
   	* Understand the needs of residents at Diya Foundation and assist them by creating educational materials like interactive presentations and slides on topics like banking and loans which will help the intellectually challenged young adults to develop basic employability skills
   * <h3>Community Volunteer, Shristi Special Academy</h3>
-    * Spent time with students of Shristi special academy to engage them in various sporting activites. Interacted with the disabled students to understand their problems and needs. Serve food to the students and academy staff.
-* <h2>Premala Bai Chavan School For The Deaf [Jan 2021 - Sep 2021]</h2>
+    * Spent time with students of Shristi special academy (partner NGO) to engage them in various sporting activites. 
+    * Provided alms to underprivileged students at the institute and helped them solve their routinely problems.
+* <h2>Premala Bai Chavan School For The Deaf [Jan 2021 - PRESENT]</h2>
   * <h3>Community Helper</h3>
-    * Associated with the school and helping the students and teachers in their educational needs virtually.  Also, participated infood distribution activities for the school students.
+    * Assisted students with hearing impairments and their teachers with their educational needs for virtual classes.
+    * Participated in food distribution activities for the school students and arranged computer systems for the institute.
 * <h2>Leaders For Tomorrow, NSIT [Aug 2015 - Aug 2016]</h2>
   * <h3>Community Volunteer</h3>
     * Actively participated in various activities dedicated for community benefit on a larger scale like Plantation Drives, Cleanliness Drives across the campus and city.

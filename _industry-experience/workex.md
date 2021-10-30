@@ -10,17 +10,18 @@ author_profile: true
 
 * <h2>Goldman Sachs</h2>
   * <h3>Software Analyst [Jun 2019 - PRESENT]</h3>
-    * Currently working in GS Electronic Trading (HFT) platforms team in the Global Markets division to help build the platform that facilitates the trading for institutional clients through ultra low latency systems using Java, Spring and C++.
-    * Leveraged the deep understanding of large scale distributed systems, low latency microstructure architecture to enhance load capacity of system.
-    * Worked in the US exchange connectivity team to build applications to boost liquidity for clients, handle support queries from the trading desk and drive projects with external vendors.
-    * Developed a tool to effectively handle inventories of short sell resources and distribute them among clients optimally using mathematical models based on client needs and allowances.
-    * Attended 14 day training program at NY headquarters to gain financial know-how and network with leaders of the firm.
+    * Building large scale ultra-low latency systems in GS Electronic Trading (HFT) platforms team that cater to 1000+ clients.
+    * Driven projects with external vendors like Fidelity in the US exchange connectivity space to connect to upcoming darkpools.
+    * Enhanced load capacity of (OM2) order management system by 50\% and increased revenue by 20% on a daily basis.
+    * Developed a tool to effectively distribute short sell locates among clients thereby increasing trade volumes by 35%.
+    * Undertook training at New York Office and qualified Chartered Financial Analyst Level 1 to hone functional competencies.
   * <h3>Software Intern [May 2018 - July 2018]</h3>
-    * Interned in the GS Electronic Trading team to create a web based monitoring solution using Python, Flask, Shell that curates all host related information from single API and performs health check for hosts to enhance the resiliency.
+    * Interned in the GS Electronic Trading team to create a web based monitoring solution using Python, Flask, Shell.
+    * The app curated all host related information from single API and performs health check for hosts to enhance the resiliency.
 
 * <h2>Hackerearth</h2>
   * <h3>Freelance Problem Setter and Editorialist [Oct 2018 - Jan 2019]</h3>
-    * Problem setter and editorialist for various online competitive programming contests.
+    * Problem setter and editorialist for various online competitive programming and recruiting contests.
     * Created new problems for official monthly contest on [Hackerearth - Hourstorm 7](https://www.hackerearth.com/challenges/competitive/hourstorm-7/) which had a participation of ~ 1k.
 
 * <h2>Sandrock e-Securities Pvt. Ltd.</h2>
