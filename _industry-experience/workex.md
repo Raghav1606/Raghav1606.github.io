@@ -19,11 +19,6 @@ author_profile: true
     * Interned in the GS Electronic Trading team to create a web based monitoring solution using Python, Flask, Shell.
     * The app curated all host related information from single API and performs health check for hosts to enhance the resiliency.
 
-* <h2>Hackerearth</h2>
-  * <h3>Freelance Problem Setter and Editorialist [Oct 2018 - Jan 2019]</h3>
-    * Problem setter and editorialist for various online competitive programming and recruiting contests.
-    * Created new problems for official monthly contest on [Hackerearth - Hourstorm 7](https://www.hackerearth.com/challenges/competitive/hourstorm-7/) which had a participation of ~ 1k.
-
 * <h2>Sandrock e-Securities Pvt. Ltd.</h2>
   * <h3>Software Development Intern [May 2016 - Jul 2016]</h3>
     * Worked on developing an Andriod mobile application using java, Speedo - that mimics Google Maps to find the shortest distance to a destination using Dijkstra's and A* algorithm and compare their performance.

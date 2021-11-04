@@ -20,6 +20,11 @@ Leadership
   * <h3>Secretary [Jul 2020 - Dec 2020]</h3>
   	* Handle club records, club correspondence, manage club roster and documents, and take meeting minutes at each club and executive committee meeting. Organizer of many intra-club speech and table-topics contests.
 
+* <h2>Hackerearth</h2>
+  * <h3>Freelance Problem Setter and Editorialist [Oct 2018 - Jan 2019]</h3>
+    * Problem setter and editorialist for various online competitive programming and recruiting contests.
+    * Created new problems for official monthly contest on [Hackerearth - Hourstorm 7](https://www.hackerearth.com/challenges/competitive/hourstorm-7/) which had a participation of ~ 1k.
+
 * <h2>Algorithm Society of NSIT (ASN)</h2>
   * <h3>Senior Board Member and Educator [Aug 2016 - May 2018]</h3>
 	* Instructor at weekly SIGs at ASN - Taught data structures and algorithms to freshers and sophomores.
