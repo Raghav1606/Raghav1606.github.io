@@ -14,7 +14,7 @@ During my undergraduate studies, I worked as a research intern in MIDAS lab, III
 
 I have a rich technical experience of 2+ yrs as a software developer at Goldman Sachs, where my role is mainly concerned with developing microstructure applications that facilitates low latency trading for institutional clients. Over time, I have also developed exprtise in scalable and distributed systems, system design (HLD and LLD), socket programming and backend application development. 
 
-Prior to this, I have had experience in competitive programming and worked as a freelance problem contributor at hackerearth - creating official and unofficial programming challenges. I have also interned at Sandrock e-Technologies, where I got hands on experience in java development.
+Prior to this, I have had experience in competitive programming and worked as a freelance problem contributor at hackerearth - creating official and unofficial programming challenges. I have also interned at Sandrock e-Securities, where I got hands on experience in java development.
 
 Here is my [Curriculum Vitae](https://raghav1606.github.io/files/CV.pdf)
 
