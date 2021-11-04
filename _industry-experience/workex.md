@@ -21,4 +21,5 @@ author_profile: true
 
 * <h2>Sandrock e-Securities Pvt. Ltd.</h2>
   * <h3>Software Development Intern [May 2016 - Jul 2016]</h3>
-    * Worked on developing an Andriod mobile application using java, Speedo - that mimics Google Maps to find the shortest distance to a destination using Dijkstra's and A* algorithm and compare their performance.
+    * Developed an android mobile application using java, that allows remote monitoring for security threats and risk assessment.
+    * This internal visualization tool allowed a intuitive understanding of complex information security issues for end users.
