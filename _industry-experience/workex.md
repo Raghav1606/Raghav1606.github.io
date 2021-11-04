@@ -20,6 +20,6 @@ author_profile: true
     * The app curated all host related information from single API and performs health check for hosts to enhance the resiliency.
 
 * <h2>Sandrock e-Securities Pvt. Ltd.</h2>
-  * <h3>Software Trainee [May 2016 - Jul 2016]</h3>
+  * <h3>Software Trainee [May 2016 - Jun 2016]</h3>
     * Developed an android mobile application using java, that allows remote monitoring for security threats and risk assessment.
     * This internal visualization tool allowed a intuitive understanding of complex information security issues for end users.
