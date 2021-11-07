@@ -24,7 +24,7 @@ Here is my [Curriculum Vitae](https://raghav1606.github.io/files/CV.pdf)
 * Finalist (Top 10), GS ML Hackathon'19 (Built a self-learning NLU based chatbot for investment managers) [2019]
 * Winner, Smart India Hackathon' 19 (India's largest hackathon), Govt. of India (Won Rs. 100000 for project PropSafe) [2019]
 * Best Poster Award, AAAI-19 (Mind Your Language: Abuse and offense detection for code‑switched languages) [2019] 
-* Qualified for ICPC regionals, ACM ICPC - 18 (Represented college at Gwalior regionals) [2018] 
+* Honourable Mention, ACM ICPC - 18 Gwalior-Pune regionals [2018] 
 * Grand Finalist, Smart India Hackathon'18, Govt. of India (Invited to Kolkata for finals for project UPCHAAR) [2018] 
 * 2nd Position, Inter college algo programming challenge (Algowls) at Deen Dayal Upadhyay college with 50+ teams [2017]
 * Qualified for Indian National Astronomy Olympiad, HBCSE (Among top 300 or 1%ile nationwide) [2014]
