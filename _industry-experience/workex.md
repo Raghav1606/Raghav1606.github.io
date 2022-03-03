@@ -11,9 +11,9 @@ author_profile: true
 * <h2>Goldman Sachs</h2>
   * <h3>Software Analyst [Jun 2019 - PRESENT]</h3>
     * Building large scale ultra-low latency systems in GS Electronic Trading (HFT) platforms team that cater to 1000+ clients.
-    * Driven projects with external vendors like Fidelity in the US exchange connectivity space to connect to upcoming darkpools.
-    * Enhanced load capacity of (OM2) order management system by 50\% and increased revenue by 20% on a daily basis.
-    * Developed a tool to effectively distribute short sell locates among clients thereby increasing trade volumes by 35%.
+    * Driven projects with external vendors in the US exchange connectivity space to connect to upcoming darkpools.
+    * Enhanced load capacity of order management platform by 50\%.
+    * Developed a tool to effectively manage short sell locates thereby increasing trade volumes by 35%.
     * Undertook training at New York Office and qualified Chartered Financial Analyst Level 1 to hone functional competencies.
   * <h3>Software Intern [May 2018 - July 2018]</h3>
     * Interned in the GS Electronic Trading team to create a web based monitoring solution using Python, Flask, Shell.
