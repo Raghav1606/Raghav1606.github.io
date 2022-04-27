@@ -2,10 +2,10 @@
 title: "Hate Me Not: Detecting Hate Inducing Memes in Code Switched Languages"
 collection: publications
 permalink: /publications/p3
-excerpt: 'Kshitij Rajput^, <b>Raghav Kapoor^</b>, Kaushal Rai^, Preeti Kaur.<br />^ Denotes equal contribution.<br />Manuscript in progress [2021]'
+excerpt: 'Kshitij Rajput^, <b>Raghav Kapoor^</b>, Kaushal Rai^, Preeti Kaur.<br />^ Denotes equal contribution.<br />Americas Conference on Information Systems [2022]'
 ---
 
-[[preprint]](https://raghav1606.github.io/files/Hate_Me_Not.pdf)
+[[paper]](https://arxiv.org/pdf/2204.11356.pdf)
 
 Abstract
 ======
