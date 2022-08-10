@@ -19,6 +19,11 @@ author_profile: true
     * Interned in the GS Electronic Trading team to create a web based monitoring solution using Python, Flask, Shell.
     * The app curated all host related information from single API and performs health check for hosts to enhance the resiliency.
 
+<figure>
+  <img src="/images/profile.png" alt="flower" style="width:50%">
+  <!-- <figcaption>Collection-1.</figcaption> -->
+</figure>
+
 * <h2>Sandrock e-Securities Pvt. Ltd.</h2>
   * <h3>Software Trainee [May 2016 - Jun 2016]</h3>
     * Developed an android mobile application using java, that allows remote monitoring for security threats and risk assessment.
