@@ -14,7 +14,7 @@ author_profile: true
   <figure>
   <img src="/images/logomidas.png" alt="flower" style="width:200px;height:100px;">
   </figure>
-  * <h3>Research Intern [Aug 2018 - May 2019]</h3>
+  * <h3>Research Intern [Aug 2018 - Jun 2019]</h3>
     * <b>Advisors:</b> [Prof. Rajiv Ratn Shah](https://scholar.google.com/citations?user=WAChZv4AAAAJ&hl=en), [Prof. Ponnurangam Kumaraguru](https://scholar.google.com/citations?user=MfzQyP8AAAAJ&hl=en), [Prof. Roger Zimmermann](https://scholar.google.com/citations?user=IDREwXEAAAAJ&hl=en)
     * Research Area : Natural Language Processing, Social-Media Analysis, AI for Social Good
     * Invented an LSTM cum transfer learning model for Hinglish offensive text classification over HEOT dataset.
