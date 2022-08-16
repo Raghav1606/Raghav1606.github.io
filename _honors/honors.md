@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Honors & Awards"
+title: "Notable Achievements"
 permalink: /honors/
 author_profile: true
 
