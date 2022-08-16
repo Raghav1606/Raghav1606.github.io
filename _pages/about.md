@@ -9,7 +9,7 @@ redirect_from:
 ---
 <i>"My Heart is in the Work" - Andrew Carnegie</i>
 
-<b>On a hunt for <u>data science, machine learning and software engineering Internship roles</u> for <u>Summer 2023</u>, where I can contribute intelectually to solve challenging problems :) !!!</b>
+<b>On a hunt for data science, machine learning and software engineering Internship roles for <u>Summer 2023</u>, where I can contribute intellectually to solve challenging problems :) !!!</b>
 
 Here is my [Curriculum Vitae](https://raghav1606.github.io/files/resume.pdf)
 
