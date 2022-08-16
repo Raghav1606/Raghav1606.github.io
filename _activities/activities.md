@@ -14,7 +14,7 @@ Leadership
 <figure>
   <img src="/images/logotm.png" style="width:100px;height:100px;">
 </figure>
-  * <h3>Club Mentor/Member [Jan 2020 - PRESENT]</h3>
+  * <h3>Club Mentor/Member [Jan 2020 - Mar 2022]</h3>
     * Working on mentoring fellow toastmasters to deliver polished speeches in front of a wide audience and honing my skills as a motivational speaker under the domain of Presentation Mastery Pathway - Completed Level 4 of the same.
     * Part of the Seven Sages Program which helped me groom as one of the 7 flag-bearer speakers from GS Toastmasters club.
   * <h3>Vice President, Membership [Jan 2021 - Jun 2021]</h3>
@@ -49,13 +49,13 @@ Leadership
 
 Volunteering
 ======
-* <h2>Community Team Works (CTW), Goldman Sachs [Aug 2019 - PRESENT]</h2>
+* <h2>Community Team Works (CTW), Goldman Sachs [Aug 2019 - Jul 2022]</h2>
   * <h3>Community Volunteer, Diya Foundation</h3>
   	* Understand the needs of residents at Diya Foundation and assist them by creating educational materials like interactive presentations and slides on topics like banking and loans which will help the intellectually challenged young adults to develop basic employability skills
   * <h3>Community Volunteer, Shristi Special Academy</h3>
     * Spent time with students of Shristi special academy (partner NGO) to engage them in various sporting activites. 
     * Provided alms to underprivileged students at the institute and helped them solve their routinely problems.
-* <h2>Premala Bai Chavan School For The Deaf [Jan 2021 - PRESENT]</h2>
+* <h2>Premala Bai Chavan School For The Deaf [Jan 2021 - May 2022]</h2>
   * <h3>Community Helper</h3>
     * Assisted students with hearing impairments and their teachers with their educational needs for virtual classes.
     * Participated in food distribution activities for the school students and arranged computer systems for the institute.
