@@ -10,7 +10,7 @@ author_profile: true
 
 * <h2>Goldman Sachs</h2>
   <figure>
-  <img src="/images/logogs.png" alt="flower" style="width:10px;height:10px;">
+  <img src="/images/logogs.png" alt="flower" style="width:100px;height:100px;">
   </figure>
   * <h3>Software Analyst [Jun 2019 - PRESENT]</h3>
     * Building large scale ultra-low latency systems in GS Electronic Trading (HFT) platforms team that cater to 1000+ clients.
