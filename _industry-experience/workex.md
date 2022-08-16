@@ -19,7 +19,7 @@ author_profile: true
   * <h3>Analyst | GS Electronic Trading Platforms Tech [Jun 2019 - Dec 2021]</h3>
     * Managed load capacity planning and effectively redesigned the order management system  (C++) to cut latency by 40%.
     * Designed an ML/NLU based chatbot for traders to answer queries from traders, reducing human dependence by 60%.
-    * Qualified Chartered Financial Analyst Level 1 exam (Top 10\%) to hone functional competencies and upskill juniors.
+    * Qualified Chartered Financial Analyst Level 1 exam (Top 10%) to hone functional competencies and upskill juniors.
   * <h3>Summer Analyst Intern | GS Electronic Trading Platforms Tech [May 2018 - July 2018]</h3>
     * Interned in the GS Electronic Trading team to create a web based monitoring solution using Python, Flask, Shell.
     * The app curated all host related information from single API and performs health check for hosts to enhance the resiliency.
