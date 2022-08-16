@@ -4,7 +4,7 @@ collection: publications
 permalink: /publications/p2
 excerpt: 'Kshitij Rajput, <b>Raghav Kapoor</b>, Puneet Mathur, Hitkul, Ponnurangam Kumaraguru, Rajiv Ratn Shah.<br />Deep Learning-Based Approaches for Sentiment Analysis, Springer [2020]
 <figure>
-  <img src="/images/logospringer.png" style="width:150px;height:50px;">
+  <img src="/images/logospringer.png" style="width:150px;height:90px;">
 </figure>'
 ---
 
