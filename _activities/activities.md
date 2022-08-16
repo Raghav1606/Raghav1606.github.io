@@ -25,7 +25,7 @@ Leadership
 
 * <h2>Hackerearth</h2>
 <figure>
-  <img src="/images/logohe.png" style="width:200px;height:100px;">
+  <img src="/images/logohe.png" style="width:300px;height:100px;">
 </figure>
   * <h3>Freelance Problem Setter and Editorialist [Oct 2018 - Jan 2019]</h3>
     * Problem setter and editorialist for various online competitive programming and recruiting contests.
@@ -49,9 +49,6 @@ Leadership
 
 Volunteering
 ======
-<figure>
-  <img src="/images/logoctw.jpeg" style="width:100px;height:200px;">
-</figure>
 * <h2>Community Team Works (CTW), Goldman Sachs [Aug 2019 - PRESENT]</h2>
   * <h3>Community Volunteer, Diya Foundation</h3>
   	* Understand the needs of residents at Diya Foundation and assist them by creating educational materials like interactive presentations and slides on topics like banking and loans which will help the intellectually challenged young adults to develop basic employability skills
@@ -65,3 +62,6 @@ Volunteering
 * <h2>Leaders For Tomorrow, NSIT [Aug 2015 - Aug 2016]</h2>
   * <h3>Community Volunteer</h3>
     * Actively participated in various activities dedicated for community benefit on a larger scale like Plantation Drives, Cleanliness Drives across the campus and city.
+<figure>
+  <img src="/images/logoctw.jpeg" style="width:250px;height:500px;">
+</figure>

@@ -4,7 +4,7 @@ collection: publications
 permalink: /publications/p3
 excerpt: 'Kshitij Rajput^, <b>Raghav Kapoor^</b>, Kaushal Rai^, Preeti Kaur.<br />^ Denotes equal contribution.<br />Americas Conference on Information Systems, Minneapolis, U.S.A [2022]
 <figure>
-  <img src="/images/logoamcis.jpeg" style="width:200px;height:100px;">
+  <img src="/images/logoamcis.jpeg" style="width:150px;height:75px;">
 </figure>'
 ---
 

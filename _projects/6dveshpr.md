@@ -2,7 +2,7 @@
 title: "Dvesh Prahari : Attackers in Disguise"
 collection: projects
 permalink: /projects/p2
-excerpt: 'B.Tech Project Thesis [May 2019; Currently Working on Publication]'
+excerpt: 'B.Tech Project Thesis [May 2019]'
 ---
 
 [[preprint]](https://raghav1606.github.io/files/Hate_Me_Not.pdf)[[code]](https://drive.google.com/drive/folders/1x8I4JZTKrhAq-LDyrNZICEWs2fmefKIz?usp=sharing)
