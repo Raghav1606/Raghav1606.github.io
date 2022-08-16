@@ -4,7 +4,7 @@ collection: publications
 permalink: /publications/p1
 excerpt: '<b>Raghav Kapoor</b>, Yaman Kumar, Kshitij Rajput, Rajiv Ratn Shah, Ponnurangam Kumaraguru, Roger Zimmermann.<br />Association for the Advancement of Artificial Intelligence (AAAI-19), Hawaii, U.S.A [2019] <b>[Best Poster Award]</b>
 <figure>
-  <img src="/images/logoaaai.png" style="width:200px;height:100px;">
+  <img src="/images/logoaaai.jpeg" style="width:200px;height:100px;">
 </figure>'
 ---
 
