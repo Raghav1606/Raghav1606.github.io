@@ -15,5 +15,8 @@ main:
   - title: "Activities"
     url: /activities/
 
+- title: "Honors & Awards"
+    url: /honors/
+
   - title: "Fun Section"
     url: /fun/

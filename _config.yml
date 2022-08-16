@@ -80,8 +80,8 @@ analytics:
 author:
   name             : "Raghav Kapoor"
   avatar           : "profile.png"
-  bio              : "Software Analyst at Goldman Sachs | B.E (Hons.) Computer Engineering, NSIT Delhi"
-  location         : "New Delhi, India"
+  bio              : "NLP/ML Grad Student at Carnegie Mellon University | Ex-Goldman Sachs, MIDAS Lab | B.E (Hons.) Computer Engineering, NSIT Delhi"
+  location         : "Pittsburgh, Pennsylvania, USA"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=8eJoJ0MAAAAJ&hl=en&oi=ao"
@@ -197,6 +197,9 @@ collections:
   activities:
     output: true
     permalink: /:collection/:path/
+  honors:
+    output: true
+    permalink: /:collection/:path/
   fun:
     output: true
     permalink: /:collection/:path/
@@ -294,6 +297,17 @@ defaults:
   - scope:
       path: ""
       type: activities
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
+  # _honors
+  - scope:
+      path: ""
+      type: honors
     values:
       layout: single
       author_profile: true

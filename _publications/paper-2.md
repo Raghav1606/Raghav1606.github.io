@@ -2,7 +2,10 @@
 title: "Transfer Learning for Detecting Hateful Sentiments in Code Switched Language"
 collection: publications
 permalink: /publications/p2
-excerpt: 'Kshitij Rajput, <b>Raghav Kapoor</b>, Puneet Mathur, Hitkul, Ponnurangam Kumaraguru, Rajiv Ratn Shah.<br />Deep Learning-Based Approaches for Sentiment Analysis, Springer [2020]'
+excerpt: 'Kshitij Rajput, <b>Raghav Kapoor</b>, Puneet Mathur, Hitkul, Ponnurangam Kumaraguru, Rajiv Ratn Shah.<br />Deep Learning-Based Approaches for Sentiment Analysis, Springer [2020]
+<figure>
+  <img src="/images/logospringer.png" style="width:200px;height:100px;">
+</figure>'
 ---
 
 [[paper]](https://link.springer.com/chapter/10.1007/978-981-15-1216-2_7)
