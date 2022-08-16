@@ -11,7 +11,7 @@ author_profile: true
 * <h2>Goldman Sachs</h2>
   * <h3>Software Analyst [Jun 2019 - PRESENT]</h3>
   <figure>
-  <img src="/images/logogs.png" alt="flower" width="50" height="50">
+  <img src="/images/logogs.png" alt="flower" width="0.5" height="0.5">
   </figure>
     * Building large scale ultra-low latency systems in GS Electronic Trading (HFT) platforms team that cater to 1000+ clients.
     * Driven projects with external vendors in the US exchange connectivity space to connect to upcoming darkpools.
