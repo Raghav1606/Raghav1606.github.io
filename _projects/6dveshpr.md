@@ -5,7 +5,7 @@ permalink: /projects/p2
 excerpt: 'B.Tech Project Thesis [May 2019]'
 ---
 
-[[preprint]](https://raghav1606.github.io/files/Hate_Me_Not.pdf)[[code]](https://drive.google.com/drive/folders/1x8I4JZTKrhAq-LDyrNZICEWs2fmefKIz?usp=sharing)
+[[code]](https://github.com/Raghav1606/Dvesh-Prahari)[[ppt]](https://drive.google.com/file/d/11MjUpACwcYzjANc3GF5qhBoud3MxnJDX/view)
 
 * Deals with detecting hate speech and sarcasm in Indian Political memes in context of code-switched languages
 * Curated and annotated an IPM (Indian Political Memes) image dataset consisting of political memes
