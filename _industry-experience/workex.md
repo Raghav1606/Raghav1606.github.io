@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Industry Experince"
+title: "Industry Experience"
 permalink: /industry-experience/
 author_profile: true
 
@@ -30,4 +30,4 @@ author_profile: true
   </figure>
   * <h3>Software Trainee [May 2016 - Jun 2016]</h3>
     * Developed an android mobile application using java, that allows remote monitoring for security threats and risk assessment.
-    * This internal visualization tool allowed a intuitive understanding of complex information security issues for end users.
+    * This internal visualization tool allowed an intuitive understanding of complex information security issues for end users.
