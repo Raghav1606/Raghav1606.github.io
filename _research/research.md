@@ -10,6 +10,16 @@ author_profile: true
 
 <b>Research Interests:</b> Large Language Models, Multimodal Machine Learning, Embodied AI, and Reinforcement learning, Social and Ethical NLP.
 
+* <h2>NeuLab and CLAW Lab - Carnegie Mellon University</h2>
+  <figure>
+  <img src="/images/logocmu.png" style="width:100px;height:100px;">
+  </figure>
+  * <h3>Graduate Student Researcher [Aug 2022 - Present]</h3> 
+    * <b>Advisors:</b> [Dr. Graham Neubig](http://www.phontron.com/), [Dr. Yonatan Bisk](https://yonatanbisk.com/), PRIOR @ Allen Institute of Artificial Intelligence (AI2)
+    * Research Area : Multimodal Machine Learning, Embodied AI, and Reinforcement learning
+    * Implemented human-level performance of the AI2THOR agent in new environments in Virtual Reality (VR) using an Oculus headset - Includes replicating continuous movement to discretized steps in VR to human-arm movement in real-world, mapping force to Oculus grip, Opening and Closing objects in VR, and rendering procedurally generated randomized scenes in VR.
+    * Worked on building reinforcement learning environments for the agent and implemented the Proximity Policy Optimization Algorithm (PPO) for these environments and agents. Working on integrating semantic maps which will help in improving the performance of the agent. 
+
 * <h2>MIDAS Lab, IIIT-Delhi</h2>
   <figure>
   <img src="/images/logomidas.png" alt="flower" style="width:200px;height:100px;">
