@@ -1,7 +1,7 @@
 ---
 title: "In-Context Learning with GPT-4 for Medical Summarization"
 collection: publications
-permalink: /publications/p2
+permalink: /publications/p4
 excerpt: 'Yash Mathur^, <b>Raghav Kapoor^</b>, Sanketh Rangreji^, Medha Palavalli^, Amanda Bertsch, Matthew R. Gormley.<br />^ Denotes equal contribution.<br /> ACL ClinicalNLP, Toronto, Canada [2023]'
 ---
 

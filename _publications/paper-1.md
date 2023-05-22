@@ -1,7 +1,7 @@
 ---
 title: "EXCALIBUR: Encouraging and Evaluating Embodied Exploration"
 collection: publications
-permalink: /publications/p1
+permalink: /publications/p5
 excerpt: 'Hao Zhu, <b>Raghav Kapoor^</b>, So Yeon Min, Winson Han, Jiatai Li, Kaiwen Geng, Graham Neubig, Yonatan Bisk, Aniruddha Kembhavi, Luca Weihs. <br />IEEE, CVF Computer Vision and Pattern Recognition Conference (CVPR), Vancouver, Canada. [2023]'
 ---
 
