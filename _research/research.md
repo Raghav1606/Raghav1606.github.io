@@ -8,7 +8,7 @@ author_profile: true
 
 {% include base_path %}
 
-<b>Research Interests:</b> Natural Language Processing, Social Media Analysis, Code-Switched Languages, Dependency Parsed Embeddings, Multimodal Analysis
+<b>Research Interests:</b> Large Language Models, Multimodal Machine Learning, Embodied AI, and Reinforcement learning, Social and Ethical NLP.
 
 * <h2>MIDAS Lab, IIIT-Delhi</h2>
   <figure>
@@ -22,7 +22,7 @@ author_profile: true
     * Led the dataset curation, annotation and cleaning initiative in the lab for 5000+ hinglish tweets for model pipeline.
     * Worked on a couple of publications and presented the paper at AAAI-19 conference in Hawaii. [[Poster]](https://raghav1606.github.io/files/poster_1_final.pdf)[[Video]](https://youtu.be/3vF_MbQqczs)[[Blog]](http://midas.iiitd.edu.in/blog/Mind-your-language.html)
 
-  * <h2>Netaji Subhas Institute of Technology</h2>
+* <h2>Netaji Subhas Institute of Technology</h2>
   <figure>
   <img src="/images/logonsut.png" style="width:100px;height:100px;">
   </figure>

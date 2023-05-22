@@ -9,14 +9,22 @@ redirect_from:
 ---
 <i>"My Heart is in the Work" - Andrew Carnegie</i>
 
-<b>On a hunt for data science, machine learning and software engineering Internship roles for <u>Summer 2023</u>, where I can contribute intellectually to solve challenging problems :) !!!</b>
+<!--- 
+<b>On a hunt for full-time machine learning and software engineering roles for <u>January 2024</u>, where I can contribute intellectually to solve challenging problems :) !!!</b>
+-->
 
 Here is my [Curriculum Vitae](https://raghav1606.github.io/files/resume.pdf)
 
-I'm Raghav Kapoor and I am currently studying at Carnegie Mellon University, School of Computer Science (Language Technologies Institute) as a masters student focussing on intelligent information systems. I'm originally from New Delhi, India and currently based out of Pittsburgh, Pennsylvania. I'm diving deep in the ML/NLP space with a special focus on integrating it to large scaled systems. I'm interested in Data Science, Machine Learning, Natural Language Processing and Software Development. I firmly believe that my passion, hard work and leadership skills shall empower me to create a meaningful impact on humanity through technology.
+👋 Hi there! I am Raghav Kapoor. I’m originally from New Delhi, India and currently based out of Pittsburgh, Pennsylvania.
 
-Before joining CMU, I worked as a software analyst at Goldman Sachs for 3 years, in the GS Electronic Trading platforms team under global markets division. Previously, I completed my Bachelor of Science (Hons.) in Computer Engineering from the Netaji Subhas Institute of Technology, Delhi University in 2019.
+🎓 I am a graduate student at Carnegie Mellon University - Language Technologies Institute, specialising in the field of ML/NLP with a special focus on integrating it into large scaled systems.
 
-During my undergraduate studies, I worked as a research intern in MIDAS lab, IIIT-Delhi, under the guidance of Prof. Rajiv Ratn Shah in the domain of natural language processing focussing on the problem of hate speech detection in code switched languages. I worked on two publications and also presented my paper at AAAI-19, Hawaii. Intrigued  by the plethora of opportunities in NLP, especially non-english texts and the drive to enhance the models, I started working on creating dependency-based embeddings for hindi texts and comparing their performance with other pre-trained embeddings. Under the guidance of Prof. Preeti Kaur at NSIT, I also deep-dived into the problem of hate-speech detection from images and twitter pages, bifurcating text and images to obtain optimal results.
+🏫 Previously, I completed my Bachelor of Science (Hons.) in Computer Engineering from the Netaji Subhas Institute of Technology, Delhi University in 2019, with a department rank 5 out of a batch of 210 and recipient of multiple academic scholarships and awards.
 
-I have a rich technical experience of 3 yrs as a software developer at Goldman Sachs, where my role was mainly concentrated on building and managing nanosecond latency systems that facilitates equities and options trading for institutional clients. Over time, I have also developed expertise in scalable and distributed systems, system design (HLD and LLD), socket programming, Java, C++, Python and backend application development. 
+⚡My research interests lie in Large Language Models, Multimodal Machine Learning, Embodied AI, and Reinforcement learning. I am passionate about research involving the theoretical and applied study of Deep Learning and Natural Language Processing. My research work has been published in top conferences such as CVPR, AAAI, and ACL. 
+
+🏢 Before joining CMU, I worked as a software analyst at Goldman Sachs for three years in the Electronic Trading Platforms team under the Global Markets Division, where my role was mainly concentrated on building and managing nanosecond latency systems that facilitates equities and options trading for institutional clients. I have also worked at MIDAS lab under Dr. Rajiv Ratn Shah on hate speech detection for code-switched languages, dependency-based embeddings for low-resource languages, and multimodal sarcasm detection.
+
+💻 Through my experience, I have developed expertise in Machine learning, Deep Learning, Reinforcement Learning, NLP, Research, Scalable and Distributed systems, System design (HLD and LLD), Java, C++, Python, and backend development.
+
+🍀 I firmly believe that my passion, hard work, and leadership skills shall empower me to create a meaningful impact on humanity through technology.
