@@ -1,13 +1,15 @@
 ---
-title: "Transfer Learning for Detecting Hateful Sentiments in Code Switched Language"
+title: "In-Context Learning with GPT-4 for Medical Summarization"
 collection: publications
-permalink: /publications/p2
-excerpt: 'Kshitij Rajput, <b>Raghav Kapoor</b>, Puneet Mathur, Hitkul, Ponnurangam Kumaraguru, Rajiv Ratn Shah.<br />Deep Learning-Based Approaches for Sentiment Analysis, Springer [2020]'
+permalink: /publications/p4
+excerpt: 'Yash Mathur^, <b>Raghav Kapoor^</b>, Sanketh Rangreji^, Medha Palavalli^, Amanda Bertsch, Matthew R. Gormley.<br />^ Denotes equal contribution.<br /> ACL ClinicalNLP, Toronto, Canada [2023]'
 ---
 
-[[paper]](https://link.springer.com/chapter/10.1007/978-981-15-1216-2_7)
+[[paper]]()
 
 Abstract
 ======
 
-With the phenomenal increase in the penetration of social media in linguistically diverse demographic regions, conversations have become more casual and multilingual. The rise of informal code-switched multilingual languages makes it tough for automated systems to monitor instances of hate speech, which are further intelligently disguised through the use of spelling variations, code-mixing, homophones, homonyms, and the absence of sophisticated grammar rules. Machine transliteration can be employed for converting the code-switched text into a singular script but poses the challenge of the semantical breakdown of the text. To overcome this drawback, this chapter investigates the application of transfer learning. The CNN-based neural models are trained on a large dataset of hateful tweets in a chosen primary language, followed by retraining on the small transliterated dataset in the same language. Since transfer learning can act as an effective strategy to reuse already learned features in learning a specialized task through cross-domain knowledge transfer, hate speech classification on a large English corpus can act as source tasks to help in obtaining pre-trained deep learning classifiers for the target task of classifying tweets translated in English from other code-switched languages. Effects of the different types of popular word embeddings and multiple supervised inputs such as the LIWC, the presence of profanities, and sentiment are carefully studied to derive the most representative combination of input settings that can help achieve state-of-the-art hate speech detection from code-switched multilingual short texts on Twitter.
+In this paper, we tackle the task of summarizing medical conversations into structured and concise notes called SOAP notes that capture relevant information for medical professionals. This task is challenging due to the unstructured nature of medical conversations, the variability of language used, and the need to identify and summarize key information. We present a novel system for the Dialogue2Note Medical Summarization tasks in the MEDIQA 2023 Shared Task. Task A involves section-wise summarization, while Task B is for full note summarization. Our approach for Task A is a two-stage process of selecting semantically similar dialogues and using the top-
+ similar dialogues as in-context examples for GPT-4. For Task B, we use a similar solution with 
+=1. We achieved 3rd place in Task A (2nd among all teams), 4th place in Task B Division Wise Summarization (2nd among all teams), 15th place in Task A Section Header Classification (9th among all teams), and 8th place among all teams in Task B. Our results highlight the effectiveness of few-shot prompting for this task. We compared GPT-4 performance with several finetuned baselines and observed that the generated summaries were more abstractive, shorter, and less detail-oriented.
