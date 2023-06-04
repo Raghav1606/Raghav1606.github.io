@@ -5,7 +5,7 @@ permalink: /publications/p4
 excerpt: 'Yash Mathur^, <b>Raghav Kapoor^</b>, Sanketh Rangreji^, Medha Palavalli^, Amanda Bertsch, Matthew R. Gormley.<br />^ Denotes equal contribution.<br /> ACL ClinicalNLP, Toronto, Canada [2023]'
 ---
 
-[[paper]]()
+[[paper]](https://drive.google.com/file/d/1m4H8KJxYHddTft0XahhdDxLo9QwvL6fM/view?usp=sharing)
 
 Abstract
 ======

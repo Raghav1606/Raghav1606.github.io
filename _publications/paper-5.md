@@ -5,7 +5,7 @@ permalink: /publications/p5
 excerpt: 'Hao Zhu, <b>Raghav Kapoor^</b>, So Yeon Min, Winson Han, Jiatai Li, Kaiwen Geng, Graham Neubig, Yonatan Bisk, Aniruddha Kembhavi, Luca Weihs. <br />IEEE, CVF Computer Vision and Pattern Recognition Conference (CVPR), Vancouver, Canada. [2023]'
 ---
 
-[[paper]]()
+[[paper]](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhu_EXCALIBUR_Encouraging_and_Evaluating_Embodied_Exploration_CVPR_2023_paper.pdf)
 
 Abstract
 ======
