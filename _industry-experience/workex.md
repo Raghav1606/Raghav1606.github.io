@@ -10,7 +10,7 @@ author_profile: true
 
 * <h2>Adobe</h2>
   <figure>
-  <img src="/images/logoadobe.jpeg" style="width:200px;height:100px;">
+  <img src="/images/logoadobe.jpeg" style="width:100px;height:100px;">
   </figure>
   * <h3>Software Engineer Intern | Adobe Document Sign [May 2023 - Aug 2023]</h3>
     * Ranked in Top 5 Intern Projects
