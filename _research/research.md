@@ -13,6 +13,7 @@ author_profile: true
 * <h2>NeuLab and CLAW Lab - Carnegie Mellon University</h2>
   <figure>
   <img src="/images/logocmu.png" style="width:100px;height:100px;">
+  <img src="/images/logoneulab.jpeg" style="width:100px;height:100px;">
   </figure>
   * <h3>Graduate Student Researcher [Aug 2022 - Present]</h3> 
     * <b>Advisors:</b> [Dr. Graham Neubig](http://www.phontron.com/), [Dr. Yonatan Bisk](https://yonatanbisk.com/), PRIOR @ Allen Institute of Artificial Intelligence (AI2)
